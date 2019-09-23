@@ -20,8 +20,7 @@ A sample food delivery application for a coffee shop.
 - Firebase Authentication for Authentication.
 - Firebase Cloud Firestore for remote database.
 - Firebase Cloud Messaging for notifications.
-- Firebase Crashlytics for crash reporting.
-- Mpesa payment
+- Firebase Crashlytics for crash reporting
 
 ## Screenshots
 
